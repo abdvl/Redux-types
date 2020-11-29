@@ -1,2 +1,2 @@
-# Redux-types
-simple version of redux types
+# Typescript : Complex Types Practice 
+
